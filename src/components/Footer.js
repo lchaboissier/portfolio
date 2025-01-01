@@ -26,7 +26,7 @@ const Footer = () => {
               <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
           </div>
-          <p className="text-sm">&copy; 2024 — Luca Chaboissier</p>
+          <p className="text-sm">&copy; 2025 — Luca Chaboissier</p>
         </div>
       </footer>
     );
